@@ -79,3 +79,10 @@ Communication channels to reduce bounce:
 ## Results
 
 The project provides visualizations and insights into the distribution of borrowers based on risk, tenure, and ticket size. It also recommends communication channels to optimize spend and improve repayment rates.
+
+##Requirments
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
